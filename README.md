@@ -4,8 +4,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone (https://github.com/WhiteWolf7176/Resolution_alpha.git)
+   cd my-app
    ```
 
 2. **Install dependencies**
