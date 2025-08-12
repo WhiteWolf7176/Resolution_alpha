@@ -1,12 +1,19 @@
-Project Name
-Installation
+# Project Name
 
-Clone the repository
-bashgit clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+## Installation
 
-Install dependencies
-bashnpm install
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
 
-run the development server
-bashnpm npm run dev
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
